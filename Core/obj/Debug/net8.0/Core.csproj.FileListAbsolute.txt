@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\Core\obj\Debug\net8.0\Core.sourcelink.json

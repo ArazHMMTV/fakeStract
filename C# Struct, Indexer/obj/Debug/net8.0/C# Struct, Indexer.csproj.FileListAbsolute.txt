@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\C# Struct, Indexer\obj\Debug\net8.0\C# Struct, Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\C# Struct, Indexer\obj\Debug\net8.0\C# Struct, Indexer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\C# Struct, Indexer\obj\Debug\net8.0\C# Struct, Indexer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\C# Struct, Indexer\obj\Debug\net8.0\C# Struct, Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Struct, Indexer\C# Struct, Indexer\obj\Debug\net8.0\C# Struct, Indexer.sourcelink.json
